@@ -1,0 +1,34 @@
+<section class="admin-panel" data-require-role="admin">
+  <h2>Admin Panel</h2>
+  <div class="admin-grid">
+    <div class="card">
+      <h3>🔑 Role / Login</h3>
+      <p>สถานะ: <strong id="adminStatus">viewer</strong></p>
+      <button id="switchToAdmin">Switch to Admin</button>
+      <button id="switchToEditor">Switch to Editor</button>
+      <button id="logoutRole">Logout</button>
+    </div>
+    <div class="card">
+      <h3>📝 แก้ไข JSON (Live)</h3>
+      <label>เลือกประเภท</label>
+      <select id="jsonSelect">
+        <option value="characters">characters.json</option>
+        <option value="creatures">creatures.json</option>
+        <option value="factions">factions.json</option>
+        <option value="lore">lore.json</option>
+        <option value="magic">magic.json</option>
+        <option value="weapons">weapons.json</option>
+        <option value="culture">culture.json</option>
+        <option value="timeline">timeline.json</option>
+        <option value="locations">locations.json</option>
+      </select>
+      <textarea id="jsonEditor" rows="18" spellcheck="false" class="code"></textarea>
+      <div class="row">
+        <button id="applyChanges">Apply</button>
+        <button id="exportJson">Export JSON</button>
+        <button id="revertLocal">Revert Local</button>
+      </div>
+      <p class="muted">* ระบบนี้แก้ไขข้อมูลใน localStorage และแสดงผลทันที (ไม่มีเซิร์ฟเวอร์)</p>
+    </div>
+  </div>
+</section>

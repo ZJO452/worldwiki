@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Gaius",
+    "title": "นักรบหมาป่าดำ",
+    "weapons": "ดาบใหญ่เคลือบเงา + กรงเล็บหมาป่า",
+    "race": "Lycan Hybrid",
+    "role": "Protagonist",
+    "affiliation": "Wolfguard",
+    "power": "Shadow Howl",
+    "tags": [
+      "Hero",
+      "Wolf",
+      "Melee"
+    ],
+    "image": "assets/images/characters/Gaius.png",
+     "video": "assets/images/characters_vidio/Gaius.mp4",
+    "preview": "นักรบผู้สวมเกราะเหล็กสีดำ ใช้คลื่นเสียงอาคมแห่งเงา",
+    "gallery": [
+      "assets/images/characters/Gaius.png"
+    ]
+  },
+  {
+    "name": "Selena",
+    "title": "เจ้าหญิงมังกรขาว",
+    "weapons": "หอกคริสตัลมังกรขาว",
+    "race": "Dragonkin",
+    "role": "Heroine",
+    "affiliation": "Ivory Court",
+    "power": "Lunar Aegis",
+    "tags": [
+      "Dragon",
+      "Mage",
+      "Hero"
+    ],
+    
+    "image": "assets/images/characters/Selena.png",
+     "video": "assets/images/characters_vidio/Selena.mp4",
+    "preview": "ผู้สืบสายเลือดมังกร ขับพลังจันทราเป็นโล่พิทักษ์",
+    "gallery": [
+      "assets/images/characters/Selena.png"
+    ]
+  },
+  {
+    "name": "Wren",
+    "title": "แม่ทัพเงา",
+    "weapons": "ดาบคู่เงา",
+    "race": "Human",
+    "role": "Antagonist",
+    "affiliation": "Black Talon",
+    "power": "Umbral Tactics",
+    "tags": [
+      "General",
+      "Villain"
+    ],
+    "image": "assets/images/characters/Wren.png",
+     "video": "assets/images/characters_vidio/Wren.mp4",
+    "preview": "จอมวางแผนผู้ซ่อนตัวในความมืด บงการสงครามอย่างเย็นชา",
+    "gallery": [
+      "assets/images/characters/Wren.png"
+    ]
+  },
+  {
+    "name": "Adrian",
+    "title": "นักกลยุทธ์ผู้เฉียบแหลม",
+    "weapons": "ดาบสั้น + ไม้เท้าเวทกลยุทธ์",
+    "race": "Human",
+    "role": "Strategist",
+    "affiliation": "Wolfguard",
+    "power": "Tactical Insight",
+    "tags": [
+      "Support",
+      "Tactician"
+    ],
+    "image": "assets/images/characters/Adrian.png",
+     "video": "assets/images/characters_vidio/Adrian.mp4",
+    "preview": "เพื่อนสนิทของ Gaius คอยวางแผนและสนับสนุนทีม",
+    "gallery": [
+      "assets/images/characters/Adrian.png"
+    ]
+  },
+  {
+    "name": "Irene",
+    "title": "นักบวชหญิงแห่งแสง",
+    "weapons": "คทาแสงสวรรค์",
+    "race": "Human",
+    "role": "Cleric",
+    "affiliation": "Ivory Court",
+    "power": "Sacred Heal",
+    "tags": [
+      "Support",
+      "Healer"
+    ],
+    "image": "assets/images/characters/Irene.png",
+     "video": "assets/images/characters_vidio/Irene.mp4",
+    "preview": "ผู้ใช้เวทแห่งแสง คอยรักษาและคุ้มครองเพื่อนพ้อง",
+    "gallery": [
+      "assets/images/characters/Irene.png"
+    ]
+  },
+  {
+    "name": "Tegan",
+    "title": "นักธนูผู้กล้าหาญ",
+    "weapons": "ธนูเงิน + ลูกศรมนตรา",
+    "race": "Human",
+    "role": "Archer",
+    "affiliation": "Wolfguard",
+    "power": "Silver Arrow",
+    "tags": [
+      "Ranged",
+      "Support"
+    ],
+    "image": "assets/images/characters/Tegan.png",
+     "video": "assets/images/characters_vidio/Tegan.mp4",
+    "preview": "น้องสาวของ Gaius ผู้แม่นยำและกล้าหาญ",
+    "gallery": [
+      "assets/images/characters/Tegan.png"
+    ]
+  },
+  {
+    "name": "Kael",
+    "title": "มือสังหารเงา",
+    "weapons": "กริชเงาแฝด",
+    "race": "Human",
+    "role": "Assassin",
+    "affiliation": "Black Talon",
+    "power": "Silent Execution",
+    "tags": [
+      "Villain",
+      "Assassin"
+    ],
+    "image": "assets/images/characters/Kael.png",
+     "video": "assets/images/characters_vidio/Kael.mp4",
+    "preview": "มือขวาของ Wren ผู้เย็นชาและจงรักภักดี",
+    "gallery": [
+      "assets/images/characters/Kael.png"
+    ]
+  },
+  {
+    "name": "Veyra",
+    "title": "มังกรดำสาว",
+    "weapons": "กรงเล็บมังกรดำ + หอกเพลิงเถ้าถ่าน",
+    "race": "Dragonkin",
+    "role": "Commander",
+    "affiliation": "Black Talon",
+    "power": "Obsidian Flame",
+    "tags": [
+      "Dragon",
+      "Villain"
+    ],
+    "image": "assets/images/characters/Veyra.png",
+     "video": "assets/images/characters_vidio/Veyra.mp4",
+    "preview": "แม่ทัพมังกรดำผู้มีความแค้นฝังใจกับ Selena",
+    "gallery": [
+      "assets/images/characters/Veyra.png"
+    ]
+  },
+  {
+    "name": "Darius",
+    "title": "ขุนนางผู้หิวอำนาจ",
+    "weapons": "ไม้เท้าอาคมการเมือง",
+    "race": "Human",
+    "role": "Noble",
+    "affiliation": "Black Talon",
+    "power": "Binding Oath",
+    "tags": [
+      "Politician",
+      "Villain"
+    ],
+    "image": "assets/images/characters/Darius.png",
+     "video": "assets/images/characters_vidio/Darius.mp4",
+    "preview": "ขุนนางผู้ใช้การเมืองและเล่ห์กลเพื่อสนับสนุน Wren",
+    "gallery": [
+      "assets/images/characters/Darius.png"
+    ]
+  }
+]

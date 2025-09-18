@@ -1,0 +1,1 @@
+function Tag(name){ return `<span class='tag'>#${name}</span>` }

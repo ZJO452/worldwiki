@@ -1,0 +1,122 @@
+[
+  {
+    "id": "AUR-01",
+    "continent": "Auroria",
+    "region": "Whiteflame Citadel",
+    "type": "Citadel",
+    "biome": "Forest/Alpine",
+    "climate": "Cold",
+    "danger": 2,
+    "recommendedLevel": [
+      12,
+      25
+    ],
+    "lore": "ป้อมศักดิ์สิทธิ์ใน Auroria รายล้อมด้วยป่าหนาทึบและภูเขาหิมะ",
+    "bbox": {
+      "x1": 100,
+      "y1": 700,
+      "x2": 250,
+      "y2": 850
+    },
+    "center": {
+      "x": 175,
+      "y": 775
+    }
+  },
+  {
+    "id": "CAL-01",
+    "continent": "Caldera",
+    "region": "Ashen Wastes",
+    "type": "Landmark",
+    "biome": "Volcanic/Desert",
+    "climate": "Arid",
+    "danger": 4,
+    "recommendedLevel": [
+      28,
+      45
+    ],
+    "lore": "ดินแดนภูเขาไฟและทะเลทราย เต็มไปด้วยขี้เถ้าและเปลวเพลิง",
+    "bbox": {
+      "x1": 100,
+      "y1": 300,
+      "x2": 220,
+      "y2": 400
+    },
+    "center": {
+      "x": 160,
+      "y": 350
+    }
+  },
+  {
+    "id": "CAL-02",
+    "continent": "Caldera",
+    "region": "Obsidian Steppe",
+    "type": "Landmark",
+    "biome": "Steppe",
+    "climate": "Arid",
+    "danger": 3,
+    "recommendedLevel": [
+      18,
+      32
+    ],
+    "lore": "ที่ราบกว้างใหญ่เต็มไปด้วยเศษออบซิเดียนคม",
+    "bbox": {
+      "x1": 230,
+      "y1": 260,
+      "x2": 330,
+      "y2": 360
+    },
+    "center": {
+      "x": 280,
+      "y": 310
+    }
+  },
+  {
+    "id": "CAL-03",
+    "continent": "Caldera",
+    "region": "Saffron Jungle",
+    "type": "Landmark",
+    "biome": "Jungle/Savanna",
+    "climate": "Arid",
+    "danger": 2,
+    "recommendedLevel": [
+      6,
+      16
+    ],
+    "lore": "ป่าทุ่งสะฟรอนสีทอง มีสัตว์นักล่ามากมาย",
+    "bbox": {
+      "x1": 150,
+      "y1": 200,
+      "x2": 250,
+      "y2": 280
+    },
+    "center": {
+      "x": 200,
+      "y": 240
+    }
+  },
+  {
+    "id": "SEI-01",
+    "continent": "Seirath",
+    "region": "Jadeheart Jungle",
+    "type": "Landmark",
+    "biome": "Jungle",
+    "climate": "Tropical",
+    "danger": 3,
+    "recommendedLevel": [
+      14,
+      28
+    ],
+    "lore": "ป่าหยกอันหนาทึบที่เปล่งพลังชีวิตและความลึกลับ",
+    "bbox": {
+      "x1": 600,
+      "y1": 150,
+      "x2": 750,
+      "y2": 280
+    },
+    "center": {
+      "x": 675,
+      "y": 215
+    }
+  }
+]

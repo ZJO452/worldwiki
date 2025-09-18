@@ -1,0 +1,92 @@
+[
+  {
+    "group": "Wolfguard (Gaius & ทีมสนับสนุน)",
+    "spells": [
+      {
+        "name": "Shadow Howl",
+        "desc": "คลื่นเสียงเงาทำลายขวัญศัตรู"
+      },
+      {
+        "name": "Stonebind",
+        "desc": "กักขังศัตรูด้วยเถาวัลย์หิน"
+      },
+      {
+        "name": "Gale Step",
+        "desc": "เคลื่อนที่เร็ว หลีกการโจมตี"
+      }
+    ],
+    "items": [
+      {
+        "name": "Wolfguard Vambrace",
+        "desc": "ปลอกแขนซับแรงเงา ต้านคำสาป"
+      },
+      {
+        "name": "Night-iron Blade",
+        "desc": "ดาบไนท์-ไอออน ดูดซับพลังเงา"
+      },
+      {
+        "name": "Veil Lantern",
+        "desc": "ไฟนำทางในป่ามืด (รุ่น Wolfguard)"
+      }
+    ],
+    "tech": [
+      {
+        "name": "Ley-Engine Skiff",
+        "desc": "เรือลาดตระเวนข้ามเลย์ไลน์"
+      },
+      {
+        "name": "Scarab Drone",
+        "desc": "โดรนสำรวจซากโบราณ (Wolfguard Variant)"
+      },
+      {
+        "name": "Runespun Exosuit",
+        "desc": "เกราะนอกเพิ่มแรงกายและเสถียรเวท"
+      }
+    ]
+  },
+  {
+    "group": "Ivory Court (Selena & ราชวงศ์มังกรขาว)",
+    "spells": [
+      {
+        "name": "Ivory Aegis",
+        "desc": "โล่แสงของราชวงศ์มังกรขาว"
+      },
+      {
+        "name": "Chant of Mending",
+        "desc": "เพลงสวดเยียวยา"
+      },
+      {
+        "name": "Whiteflame Judgement",
+        "desc": "พิธีเพลิงขาวพิพากษา"
+      }
+    ],
+    "items": [
+      {
+        "name": "Ivory Signet",
+        "desc": "แหวนตรา เรียกโล่แสง"
+      },
+      {
+        "name": "Whiteflame Relayer",
+        "desc": "ตัวกลางส่งพลังมังกรขาว"
+      },
+      {
+        "name": "Star-etched Compass",
+        "desc": "เข็มทิศหาทางเลย์ไลน์"
+      }
+    ],
+    "tech": [
+      {
+        "name": "Aether Relay Tower",
+        "desc": "เสาส่งสัญญาณคริสตัลอีเทอร์ (Ivory Edition)"
+      },
+      {
+        "name": "Aegis Field Projector",
+        "desc": "โปรเจกต์เตอร์สร้างสนามป้องกัน"
+      },
+      {
+        "name": "Whiteflame Reactor",
+        "desc": "เตาปฏิกรณ์ตรามังกรขาว ป้องกันเมืองเล็ก"
+      }
+    ]
+  }
+]

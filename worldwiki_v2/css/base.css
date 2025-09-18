@@ -1,0 +1,17 @@
+
+:root{
+  --bg:#0c0f14; --panel:#121723; --card:#171e2b; --muted:#9aa4b2;
+  --text:#e6edf3; --accent:#7aa2ff; --accent-2:#9affd9; --danger:#ff6b6b;
+  --shadow: 0 12px 28px rgba(0,0,0,.35);
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:Inter,system-ui,Segoe UI,Arial,sans-serif}
+a{color:var(--accent);text-decoration:none}
+img{max-width:100%;display:block}
+.btn{background:var(--accent);color:#000;padding:.6rem 1rem;border:0;border-radius:.8rem;cursor:pointer}
+.btn[disabled]{opacity:.5;cursor:not-allowed}
+.muted{color:var(--muted)}
+.prose p{line-height:1.8}
+.role-badge{background:var(--card);padding:.3rem .6rem;border-radius:.6rem;margin-left:.5rem;font-size:.9rem}
+[data-hidden]{display:none!important}
+.code{width:100%;background:#0b0e13;color:#d9f1ff;border:1px solid #222; border-radius:.8rem;padding:1rem;font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,"Liberation Mono","Courier New",monospace}

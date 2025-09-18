@@ -1,0 +1,1 @@
+function RenderHome(){ Wikilink.bind(document.getElementById('app')); }

@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Fenrith",
+    "title": "หมาป่าเงา",
+    "race": "Shadow Beast",
+    "role": "Mythic Creature",
+    "affiliation": "Neutral",
+    "power": "Eclipse Fang",
+    "tags": [
+      "Wolf",
+      "Dark",
+      "Beast"
+    ],
+    "image": "assets/images/creatures/Fenrith.png",
+    "video": "assets/images/creatures_vidio/Fenrith.mp4",
+    "preview": "หมาป่าตัวใหญ่ขนดำเงาวับ ดวงตาสีม่วงเรืองแสง เคลื่อนไหวไร้เสียง",
+    "lore": "Fenrith ถูกเล่าขานว่าเลือกเจ้านายของมันเอง หากสาบานภักดีแล้วจะไม่ทรยศ แม้ในตำนานสงครามเงา พวกมันก็ยืนเคียงข้างวีรบุรุษเพียงไม่กี่คนเท่านั้น",
+    "gallery": [
+      "assets/images/creatures/Fenrith.png"
+    ]
+  },
+  {
+    "name": "Dravorn",
+    "title": "มังกรคริสตัล",
+    "race": "Ancient Dragon",
+    "role": "Legendary Creature",
+    "affiliation": "Celestial Order",
+    "power": "Prism Beam",
+    "tags": [
+      "Dragon",
+      "Crystal",
+      "Legend"
+    ],
+    "image": "assets/images/creatures/Dravorn.png",
+    "video": "assets/images/creatures_vidio/Dravorn.mp4",
+    "preview": "มังกรโบราณเกล็ดใสราวอัญมณี ยิงแสงปริซึมจากปีกได้",
+    "lore": "Dravorn คือหนึ่งในมังกรสายเลือดเก่าแก่ที่สุด เชื่อกันว่าเป็นผู้เฝ้าสมดุลระหว่างแสงและเงา เกล็ดที่แตกหักของมันมักถูกใช้เป็นอัญมณีศักดิ์สิทธิ์",
+    "gallery": [
+      "assets/images/creatures/Dravorn.png"
+    ]
+  },
+  {
+    "name": "Morvex",
+    "title": "ตะขาบ Abyss",
+    "race": "Chthonic Insect",
+    "role": "War Beast",
+    "affiliation": "Black Talon",
+    "power": "Corrosive Venom",
+    "tags": [
+      "Insect",
+      "Poison",
+      "Underground"
+    ],
+    "image": "assets/images/creatures/Morvex.png",
+    "video": "assets/images/creatures_vidio/Morvex.mp4",
+    "preview": "ตะขาบยักษ์ใต้พิภพ เกราะแข็งและพิษกัดกร่อน",
+    "lore": "Morvex ถูก Wren เพาะเลี้ยงในถ้ำลึก ใช้เป็นอาวุธลับในการบุกเมืองศัตรู มันสามารถขุดอุโมงค์เจาะทะลุกำแพงหินและพ่นพิษละลายโลหะ",
+    "gallery": [
+      "assets/images/creatures/Morvex.png"
+    ]
+  },
+  {
+    "name": "Sylphid",
+    "title": "วิญญาณลม",
+    "race": "Elemental Spirit",
+    "role": "Guardian Entity",
+    "affiliation": "Mountain Tribes",
+    "power": "Gale Veil",
+    "tags": [
+      "Spirit",
+      "Wind",
+      "Guardian"
+    ],
+    "image": "assets/images/creatures/Sylphid.png",
+    "video": "assets/images/creatures_vidio/Sylphid.mp4",
+    "preview": "ร่างโปร่งใสล้อมด้วยละอองแสงฟ้า เคลื่อนไหวพลิ้วไหวเหมือนสายลม",
+    "lore": "ชนเผ่าบนภูเขาเชื่อว่า Sylphid คือผู้พิทักษ์เส้นทาง บางครั้งจะนำพานักเดินทางที่ซื่อสัตย์ไปยังทางลัดลับ แต่ก็สามารถพัดพาเหล่าผู้บุกรุกให้หลงทางหายไป",
+    "gallery": [
+      "assets/images/creatures/Sylphid.png"
+    ]
+  },
+  {
+    "name": "Thornback Behemoth",
+    "title": "ยักษ์หลังหนาม",
+    "race": "Colossal Beast",
+    "role": "Wild Titan",
+    "affiliation": "Ancient Tribes",
+    "power": "Stone Spikes",
+    "tags": [
+      "Giant",
+      "Beast",
+      "Earth"
+    ],
+    "image": "assets/images/creatures/Thornback Behemoth.png",
+    "video": "assets/images/creatures_vidio/Thornback Behemoth.mp4",
+    "preview": "สัตว์สี่ขาร่างยักษ์ หลังเต็มไปด้วยหนามหินคม",
+    "lore": "Thornback Behemoth อาศัยในป่าลึก หนามหินของมันสามารถพุ่งสลัดใส่ศัตรูได้เหมือนลูกธนู บางชนเผ่าโบราณเคยเลี้ยงพวกมันเป็นสัตว์สงคราม ทำลายทั้งป้อมไม้และกำแพงหิน",
+    "gallery": [
+      "assets/images/creatures/Thornback Behemoth.png"
+    ]
+  }
+]

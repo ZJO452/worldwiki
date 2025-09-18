@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Humans",
+    "description": "เผ่าพันธุ์ที่มีความหลากหลายและปรับตัวได้เก่งที่สุด",
+    "traits": "วัฒนธรรมและอาณาจักรที่แตกแขนงออกไปมากมาย",
+    "related_characters": ["Gaius", "Adrian", "Tegan"],
+    "image": "assets/images/races/humans.png"
+  },
+  {
+    "name": "Elves",
+    "description": "เผ่าพันธุ์โบราณ ผู้ผูกพันกับป่าและเวทมนตร์",
+    "traits": "อายุยืน, ฉลาด, ใช้เวทได้คล่องแคล่ว",
+    "related_characters": ["Selena", "Ivory Court"],
+    "image": "assets/images/races/elves.png"
+  },
+  {
+    "name": "Dragonkin",
+    "description": "สืบสายเลือดจากมังกรโบราณ บางครั้งมาในร่างมนุษย์",
+    "traits": "พลังเวทมหาศาล, สายเลือดสูงศักดิ์",
+    "related_characters": ["Selena (เจ้าหญิงมังกรขาว)", "Veyra (มังกรดำ)"],
+    "image": "assets/images/races/dragonkin.png"
+  },
+  {
+    "name": "Wolfguard",
+    "type": "องค์กรนักรบ",
+    "description": "กองกำลังผู้ปกป้องชายแดนของมนุษย์ มี Gaius เป็นนักรบผู้ภักดี",
+    "symbol": "หัวหมาป่าดำ",
+    "related_characters": ["Gaius"],
+    "image": "assets/images/factions/wolfguard.png"
+  },
+  {
+    "name": "Ivory Court",
+    "type": "สภาเอลฟ์",
+    "description": "กลุ่มปกครองลับ ๆ ของเอลฟ์ผู้ทรงอำนาจ คอยกำหนดทิศทางของป่า",
+    "related_characters": ["Selena"],
+    "image": "assets/images/factions/ivorycourt.png"
+  },
+  {
+    "name": "Black Talon",
+    "type": "กองทัพเงา",
+    "description": "กองกำลังลับของ Wren และ Kael ใช้การลอบสังหารและเล่ห์กล",
+    "related_characters": ["Wren", "Kael"],
+    "image": "assets/images/factions/blacktalon.png"
+  },
+  {
+    "name": "Dragon Legion",
+    "type": "กองทัพมังกร",
+    "description": "กองกำลังของเหล่า Dragonkin ที่นำโดย Veyra มักเข้าปะทะกับอาณาจักรมนุษย์",
+    "related_characters": ["Veyra"],
+    "image": "assets/images/factions/dragonlegion.png"
+  }
+]
